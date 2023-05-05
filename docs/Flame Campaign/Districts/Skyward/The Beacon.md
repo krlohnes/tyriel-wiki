@@ -1,0 +1,1 @@
+This is the center of government for Flame. It is known as The Beacon, due to the large central tower that rises above the rest of the city and is lit in the orange of common [[Flame Campaign/Vesperium]] It is denoted in yellow on the map and in the center of the city

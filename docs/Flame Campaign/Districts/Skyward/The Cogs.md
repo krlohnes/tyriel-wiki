@@ -1,0 +1,1 @@
+[[The Cogs]]] is a district in the [[Skyward]] district of [[Flame]] It is primarily made up of enchanters and artificers of the guild known as [[The Fabricators]] working with [[Flame]]'s main export, [[Flame Campaign/Vesperium]]. This is situated on the south side of the city. 

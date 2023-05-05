@@ -1,0 +1,1 @@
+An entertainment district skyward. This is in the Northeast of the map and denoted by green

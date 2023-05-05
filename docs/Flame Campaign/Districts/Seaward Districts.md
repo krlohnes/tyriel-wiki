@@ -1,5 +1,5 @@
-[[The Seaward Academy]]
-[[Sinir]]
-[[The Collective]]
-[[The Gloaming]] 
-[[Seaglass Glint]]
+[[The Seaward Academy]] <br />
+[[Sinir]] <br />
+[[The Collective]] <br />
+[[The Gloaming]]  <br />
+[[Seaglass Glint]] <br />

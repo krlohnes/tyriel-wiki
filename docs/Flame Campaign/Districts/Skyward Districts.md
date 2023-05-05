@@ -1,8 +1,8 @@
 The districts are neighborhoods generally distinguished between by function and socioeconomic status
-[[The Cogs]]
-[[Glowstone Market]]
-[[The Beacon]]
-[[Helm]]
-[[The Temples]]
-[[Nobles District]]
-[[The Theatre District]]
+[[The Cogs]] <br />
+[[Glowstone Market]] <br />
+[[The Beacon]] <br />
+[[Helm]] <br />
+[[The Temples]] <br />
+[[Nobles District]] <br />
+[[The Theatre District]] <br />

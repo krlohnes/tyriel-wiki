@@ -15,13 +15,13 @@ If a clock is ticked:
 
 
 
-[[The Fabricators]]
-[[The Seaward Academy]]
-[[The Vespers]]
-[[The Council of Churches]]
-[[The Collective]]
-[[Enayan]]
-[[The City Guard]]
+[[The Fabricators]] <br />
+[[The Seaward Academy]] <br />
+[[The Vespers]] <br />
+[[The Council of Churches]] <br />
+[[The Collective]] <br/>
+[[Enayan]] <br />
+[[The City Guard]] <br />
 
 
 

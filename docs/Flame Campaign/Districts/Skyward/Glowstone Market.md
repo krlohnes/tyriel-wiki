@@ -2,5 +2,5 @@ Major market district [[Skyward]] situated mostly in the south western quadrant 
 
 Contains:
 
-[[Odd Jobs]]
+[[Odd Jobs]] <br />
 [[Bottlebrew Bakery]]

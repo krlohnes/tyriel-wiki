@@ -1,0 +1,1 @@
+A wizard of the Seaward Academy who allegedly killed the sister of [[Kruthi Nhamashal]]

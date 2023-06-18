@@ -14,3 +14,6 @@ A D&D Wiki for the Players in my campaigns adventuring in the world of Tyriel.
 
 ## Map of Cremelia
 ![Cremelia](https://krlohnes.github.io/tyriel-wiki/cremelia.jpg)
+
+## Map of Flame
+![Flame](https://krlohnes.github.io/tyriel-wiki/Flame Campaign/Flame%20Map.png)

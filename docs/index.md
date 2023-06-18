@@ -10,7 +10,7 @@ A D&D Wiki for the Players in my campaigns adventuring in the world of Tyriel.
 
 ## Map of Tyriel
 
-![Tyriel](docs/Tyriel.jpg)
+![Tyriel](https://krlohnes.github.io/tyriel-wiki/Tyriel.jpg)
 
 ## Map of Cremelia
-![Cremelia](docs/cremelia.jpg)
+![Cremelia](https://krlohnes.github.io/tyriel-wiki/cremelia.jpg)

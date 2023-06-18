@@ -1,0 +1,1 @@
+A celestial envoy revered by the cult to which Syd's family belonged

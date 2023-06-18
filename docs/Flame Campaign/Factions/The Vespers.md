@@ -2,19 +2,10 @@ Current status clock: 0/4
 Current Status: 0 Neutral
 
 The theive's guild in Flame. They run as separate cells in each of the [[Skyward Districts]], but have a council of elected district leaders that vote on guild business. They run jobs for whoever has the cash.
-
-Leader - Tenfir Calis
-- A half elf man with blond hair, purple eyes, and a wry smile.
-- Leader of district
-- Aspirations to "presidency" of the Vespers
-
-Lieutenant -  Tal Travoradir
-- Human nonbinary with jet black hair, blue eyes. A bit on the short side.
-- Good friend of Tenfir from an early age
-
-Enforcer - Ko Y'Standra
-- Little is known about him. He tries to keep his face hidden and rarely speaks.
-
+<br />
+Leader - [[Tenfir Calis]]
+Lieutenant -  [[Tal Travoradir]]
+Enforcer - [[Ko Y'Standra]] 
 
 ## Roleplaying Characteristics
 

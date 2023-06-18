@@ -3,14 +3,12 @@ Current Status: 0 Neutral
 
 A rebel group that wants independence for [[Flame]]
 
-Leader - Dante Fuori
-Human man, jet black hair, blue eyes
+Leader - [[Dante Fuori]]
 
-Lieutenant - Daniella Y'Stanaya
-Loxodon woman, wears a traditional Firhieliender headress
+Lieutenant - [[Daniella Y'Stanaya]]
 
-Enforcer - Brewer Stonefury
-Dwarven man with a salt and pepper beard, and a shaved head that shows tatoos dedicated to the four fundamental forces.
+Enforcer - [[Brewer Stonefury]]
+
 
 ## Roleplaying Characteristics
 
@@ -35,14 +33,3 @@ Dwarven man with a salt and pepper beard, and a shaved head that shows tatoos de
 - We all knew the risks when we signed up and must be prepared to sacrifice the lives of our brothers in arms.
 - The old ways are paramount. These new gods popping up are a bane on the existance of Flame.
 
-### What are they selfish about?
-
-### What are they selfless about?
-
-### What do they do publicly that others see as good?
-
-### What do they do publicly that others see as bad?
-
-### What do they do privately that others see as good?
-
-### What do they do privately that others see as bad?

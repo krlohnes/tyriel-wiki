@@ -1,18 +1,13 @@
 
-Current Status Clock: 2/4
-Current Status: +1 Helpful
+Current Status Clock: 3/4 <br />
+Current Status: +1 Helpful <br />
 
-Protectors of the city. They are part of the Royal Cremelian Marines, but specifically have extra power granted to them to enforce the laws of Flame at a local level. This is somewhat unusual, usually the guard is comprised of locals and not part of the the royal military, though they have been trying to recruit from locals as the popularity of the Fisgrunli monarchy wanes.
+Protectors of the city. They are part of the Royal Cremelian Marines, but specifically have extra power granted to them to enforce the laws of Flame at a local level. This is somewhat unusual, usually the guard is comprised of locals and not part of the the royal military, though they have been trying to recruit from locals as the popularity of the Fisgrunli monarchy wanes. <br /> <br />
 
-Leader - Captain Stevran Helsisle
+Leader - [[Captain Stevran Helsisle]]
+Lieutenant - [[Lieutenant Ghriselia Hillforge]]
+Enforcer - [[Sergeant Aimar Altieri]]
 
-Tiefling man with red skin whose family came from Helsisle in the Isles of war centuries ago. 
-
-Lieutenant - Lieutenant Ghriselia Hillforge
-Dwarven woman, long red hair braided into her beard.
-
-Enforcer - Sergeant Aimar Altieri
-Elf man short cut blonde hair. 
 
 ## Roleplaying Characteristics
 

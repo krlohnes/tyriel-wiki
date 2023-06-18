@@ -8,20 +8,15 @@ They operate [[The Flotsam]] and control the shape and movement of the slips and
 There is the campus of the Academy, but there is also a smaller residential district of miners general workers 
 
 ### Leader
-
-- Aelor Brightstone
-- High Elf Wizard
-- TODO Physical descriptions
+[[Aelor Brighstone]]
 
 ### Lieutenant
-- Giussepe Altieri
-- Half Elf wizard
--  TODO Physical descriptions
+[[Giussepe Altieri]]
+
 
 ### Enforcer
-- Jaya Spritesbane
-- Half orc (Some sort of gish, Sorc/Pally maybe?) Born of a Fey and an Orc.
--  TODO Physical descriptions
+[[Jaya Spritesbane]]
+- 
 
 ## Roleplaying Characteristics
 

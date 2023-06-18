@@ -1,4 +1,4 @@
-Major market district [[Skyward]] situated mostly in the south western quadrant of the city (denoted by orange).
+Major market district [[Skyward]] situated mostly in the south western quadrant of the city (denoted by orange on  [[Flame Map.png]].
 
 Contains:
 

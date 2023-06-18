@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1997be86f5e54ea6",
+            "id": "25699c3247aef4c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items.md",
+                "file": "Annie's other notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "25699c3247aef4c2",
+            "id": "63ffa849b2130d04",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,6 +75,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "997b2152b7f533c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -159,8 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25699c3247aef4c2",
+  "active": "63ffa849b2130d04",
   "lastOpenFiles": [
+    "Places Outside of Flame/Iaza.md",
+    "Places Outside of Flame/Untitled.md",
+    "Non Player Characters/Bracius Cillimara.md",
+    "Non Player Characters/Cillimara.md",
     "Items.md",
     "Annie's other notes.md",
     "Sessions/Session 1/Session 1 Preview.md",

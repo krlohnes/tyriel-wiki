@@ -4,7 +4,7 @@ Current Status: 0 Neutral <br />
 The Collective is both a district and mining cooperative with a rather large buy in to join. It is, however, run and operated by miners. The land they mine, however, is the perview of the Seaward Academy. This should really be seen as a cooperative and have the type of socialist beliefs that entails.
 <br />
 Leader: [[Drumphir Stonebreaker]]
-<br />
+</ br>
 Lieutenant: [[Dreyfus Alemane]]
 <br />
 Enforcer: [[Tanya Breakarmor]]

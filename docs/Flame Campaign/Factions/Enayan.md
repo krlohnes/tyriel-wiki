@@ -5,7 +5,7 @@ A rebel group that wants independence for [[Flame]]
 
 Leader - [[Dante Fuori]]
 
-Lieutenant - [[Daniella Y'Stanaya]]
+Lieutenant - [[GamGam]]
 
 Enforcer - [[Brewer Stonefury]]
 

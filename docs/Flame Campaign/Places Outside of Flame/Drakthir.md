@@ -1,0 +1,1 @@
+A country that was once part of [[Phardaal]] until a Phardaali Knight slew the mother of a young dragon name [[Tekshaal]], who led a bloody and cruel campaign against Phardaal to claim his territory.

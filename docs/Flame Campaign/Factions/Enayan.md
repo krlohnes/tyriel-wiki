@@ -10,7 +10,7 @@ Lieutenant - [[GamGam]]
 Enforcer - [[Brewer Stonefury]]
 
 
-## Roleplaying Characteristics
+The Enayan
 
 ### Personality Traits
 - We are not fighting for glory or wealth. We fight to restore control of our home to her people

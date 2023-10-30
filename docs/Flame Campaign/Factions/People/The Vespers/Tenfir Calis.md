@@ -5,3 +5,6 @@
 
  - Voice notes: 
 	 - Sort of cocky, slightly british, mid-tenor
+	 
+
+![[Tenfir Calis.png]]

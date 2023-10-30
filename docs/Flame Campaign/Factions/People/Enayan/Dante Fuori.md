@@ -1,3 +1,5 @@
 Leader of the [[Enayan]]
 
-Human man, jet black hair, blue eyes
+Human man, greying black hair, blue eyes
+
+![[Dante Fuori.png]]

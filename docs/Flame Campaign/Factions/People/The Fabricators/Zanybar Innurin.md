@@ -10,4 +10,7 @@ Zanybar is always eager to share his latest inventions with others, and loves no
 <br />
 Despite his quirky personality, Zanybar is a loyal friend and will go to great lengths to help those he cares about. He has a particular soft spot for other gnomes, and will often take them under his wing and teach them the art of tinkering.
 <br />
-Overall, Zanybar Innurin is a brilliant and eccentric gnome tinkerer with a passion for creating innovative and useful inventions. He may be a bit absent-minded and quirk
+Overall, Zanybar Innurin is a brilliant and eccentric gnome tinkerer with a passion for creating innovative and useful inventions. He may be a bit absent-minded and quirky
+
+![[zanybar innurin.png]]
+![[zanybar innurin 1.png]]

@@ -1,7 +1,9 @@
 Current status clock: 0/4
 Current Status: 0 Neutral
 
-The theive's guild in Flame. They run as separate cells in each of the [[Skyward Districts]], but have a council of elected district leaders that vote on guild business. They run jobs for whoever has the cash.
+Vaeda's cell is native to glowstone.
+
+The thieve's guild in Flame. They run as separate cells in each of the [[Skyward Districts]], but have a council of elected district leaders that vote on guild business. They run jobs for whoever has the cash.
 <br />
 Leader - [[Tenfir Calis]]
 Lieutenant -  [[Tal Travoradir]]

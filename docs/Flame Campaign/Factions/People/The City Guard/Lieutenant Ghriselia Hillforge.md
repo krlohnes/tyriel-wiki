@@ -1,4 +1,4 @@
-A dwarven woman, with piercing blue eyes wrapped in tattoos on her sun darkened skin and long red hair braided into her beard.
+A dwarven woman, with piercing blue eyes. She's wrapped in tattoos inked on her sun darkened skin and her long red hair is braided into her beard.
 
 Lieutenant for [[The City Guard]]
 

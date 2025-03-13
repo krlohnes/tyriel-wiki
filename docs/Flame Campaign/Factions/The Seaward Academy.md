@@ -8,7 +8,7 @@ They operate [[The Flotsam]] and control the shape and movement of the slips and
 There is the campus of the Academy, but there is also a smaller residential district of miners general workers 
 
 ### Leader
-[[Aelor Brighstone]]
+[[Aelor Brightstone]]
 
 ### Lieutenant
 [[Giussepe Altieri]]
@@ -34,7 +34,7 @@ There is the campus of the Academy, but there is also a smaller residential dist
 
 ### Bonds
 - We seek to safeguard the most dangerous of arcane secrets from the rest of the world. What some may see as essentially dangerous, we deem the most important to understand
-- The suppresion of magic through the dams was an eggregious act. We will respond, violently if necessary, to any we see as threatening magic in the world.
+- The suppression of magic through the dams was an egregious act. We will respond, violently if necessary, to any we see as threatening magic in the world.
 - We sell our magical services to support and educate the next generation of arcane practitioners. The students of the Academy _must_ be protected as they are the future of magic.
 - We're wary of magical tinkerers, though not above using them to aid in our own research.
 
@@ -42,7 +42,7 @@ There is the campus of the Academy, but there is also a smaller residential dist
 - Since we are so often misunderstood, we act in unseen and secret ways.
 - We are researchers and scholars, not warriors. Risking our talented members is wasteful and reckless when their minds can be put to much better use. Other lives are disposable.
 - We believe only Academy mages possess the intelligence and wisdom to wield arcane magic in a responsible way. Magic users who aren’t Academy members are undisciplined amateurs at best, and more often become unhinged criminals.
-- Engineered devices are beneath us. A show of arcane, even for the mundane, is how we continue to weild our own in the eyes of others.
+- Engineered devices are beneath us. A show of arcane, even for the mundane, is how we continue to wield our own in the eyes of others.
 
 
 ### What are they selfish about?

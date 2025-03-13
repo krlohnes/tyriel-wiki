@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5d1f6fe1950825a0",
+        "id": "c2a52848d8e6224f",
         "type": "tabs",
         "children": [
           {
-            "id": "25699c3247aef4c2",
+            "id": "3f17c9f676ca26e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Post-explosion interlude/Possible Encounters.md",
+                "file": "Sessions/Temple district one shot/Banshee.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3a1119e25a1fec8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feedback on DNDB.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Banshee"
             }
           }
         ]
@@ -51,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -60,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glittergold",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -74,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -82,11 +78,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Post-explosion interlude/Possible Encounters.md",
+                "file": "Sessions/Temple district one shot/Banshee.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Banshee"
             }
           },
           {
@@ -123,10 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Post-explosion interlude/Possible Encounters.md",
+                "file": "Sessions/Temple district one shot/Banshee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Banshee"
             }
           },
           {
@@ -137,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -146,8 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Post-explosion interlude/Possible Encounters.md"
-              }
+                "file": "Sessions/Temple district one shot/Banshee.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Banshee"
             }
           }
         ]
@@ -167,36 +172,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ffeb1e381bdbae8",
+  "active": "3f17c9f676ca26e4",
   "lastOpenFiles": [
-    "Sessions/Post-explosion interlude/Session 2 Notes.md",
-    "Sessions/Post-explosion interlude/Possible Encounters.md",
-    "Sessions/Post-explosion interlude/Session 1 Notes.md",
-    "Feedback on DNDB.md",
-    "Deities, Patrons, and Celestials/Vaeda's Patron.md",
-    "Factions/The Collective.md",
-    "Districts/Skyward/The Cogs.md",
-    "Districts/Skyward Districts.md",
-    "Districts/Skyward/The Temples.md",
-    "Districts/Skyward/Nobles District.md",
-    "Districts/Skyward/The Theatre District.md",
-    "Districts/Skyward/Helm.md",
-    "Annie's other notes.md",
-    "Sessions/Post-explosion interlude",
-    "Places Outside of Flame/Iaza.md",
-    "Places Outside of Flame/Untitled.md",
-    "Non Player Characters/Bracius Cillimara.md",
-    "Non Player Characters/Cillimara.md",
-    "Items.md",
-    "Sessions/Session 1/Session 1 Preview.md",
-    "Wards/Flotsam.md",
-    "Sessions/Session 1/Session 1 Clues.md",
-    "Sessions/Session 1/Session One Notes.md",
+    "Sessions/Temple district one shot/Health and ability trackers.md",
+    "Sessions/Temple district one shot/Banshee.md",
+    "Sessions/Temple district one shot/People.md",
+    "Sessions/Collecting herbs at the zoological society.md",
+    "Sessions/Temple district one shot",
     "Sessions/Session 3/Session 3 Notes.md",
-    "Sessions/Session 3/Player Notes - Session 4.md",
-    "Sessions/Session 3",
-    "Sessions/Session 1/Untitled",
+    "Annie's other notes.md",
+    "Wards/Flotsam.md",
+    "Sessions/Post-explosion interlude/Session 1 Notes.md",
+    "Locations/Flotsam Locks.md",
+    "Factions/People/The Seaward Academy/Aelor Brightstone.md",
+    "Factions/Faction State.md",
+    "Flame Map.png",
+    "Co-DM stuff/Flame City School 12.md",
+    "Potential encounters.md",
+    "Co-DM stuff",
+    "Non Player Characters/Untitled",
+    "Factions/Faction Reputation.md",
+    "Factions/Faction State (Annie Lewis's conflicted copy 2024-02-25).md",
+    "Sessions/The Mad Manor of Willa Weals.md",
+    "Sessions/Post-explosion interlude/Possible Encounters.md",
+    "Sessions/Session 1/Session 1 Detailed Plans (do not open).md",
+    "Sessions/Fixing Taffeta and Jet.md",
+    "Sessions/Solving Willa's Compulsion.md",
+    "Sessions/Session 1/Session One Notes.md",
+    "Sessions/Session 1/Session 1 Preview.md",
     "Sessions/Session 1/Session 1 Open.md",
-    "Sessions/Session 1/Session 1 Detailed Plans (do not open).md"
+    "Sessions/Session 1/Session 1 Clues.md",
+    "Factions/People/The Fabricators/Zanybar Innurin.md",
+    "Factions/People/The Fabricators/Callum Seawater.md",
+    "Sessions/Post-explosion interlude",
+    "Sessions/Session 3",
+    "Sessions/Session 1/Untitled"
   ]
 }

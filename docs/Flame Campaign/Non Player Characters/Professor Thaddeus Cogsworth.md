@@ -1,0 +1,4 @@
+
+Professor Thaddeus Cogsworth is a lively gnome with a tuft of wild, curly brown hair that sticks out in every direction, often adorned with tiny gears and trinkets. His round spectacles magnify his bright green eyes, which sparkle with mischief and intelligence. He wears a patchwork of vests and waistcoats filled with pockets, each holding various tools and notes for his research.
+
+Thaddeus is an expert in the history and development of warforged, with a particular fascination for their societal roles. His lectures are filled with humor and charm, drawing students in with his energetic storytelling and demonstrations. Though he may seem eccentric, he possesses a deep understanding of the ethical implications surrounding warforged and is often seen debating these topics with his colleagues. He is beloved by his students for his approachable nature and willingness to entertain even the wildest of ideas.![[thadeus_cogsworth.png]]

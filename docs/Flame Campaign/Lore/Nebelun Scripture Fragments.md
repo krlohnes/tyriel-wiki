@@ -1,0 +1,7 @@
+- "Do not kneel before the maker. Stand. Build. Break. Improve."
+- "Faith is the input. Creation is the output."
+- "A broken cog does not pray—it mends itself or is replaced."
+- "Invention requires no devotion. Function is its own reward."
+- "All creations rust. Only the blueprint endures."
+- "Mortal hands build eternal things. The craftsman dies, but the gear turns on."
+- "You are not the sum of your parts. You are the flaw that makes them whole."

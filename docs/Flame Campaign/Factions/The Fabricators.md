@@ -5,7 +5,8 @@ A guild of Enchanters and Artificers found primarily in [[The Cogs]] They are fa
 
 Leader
 
-Lieutenant
+Lieutenant:
+
 
 Enforcer:
 

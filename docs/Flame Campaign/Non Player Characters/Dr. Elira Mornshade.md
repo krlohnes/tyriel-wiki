@@ -1,0 +1,4 @@
+
+Dr. Elira Mornshade is a striking drow with deep obsidian skin and piercing violet eyes that seem to glow with an inner light. Her long, silver hair cascades elegantly down her back, often tied in a loose braid adorned with intricate silver threads. Elira is typically seen in flowing robes of dark blues and purples, embroidered with arcane symbols, giving her an air of both mystery and intellect.
+
+As a leading artificer, she possesses a keen mind and an insatiable curiosity about the intersection of magic and machinery. Elira has a reputation for her groundbreaking research on warforged sentience, often pushing the boundaries of what it means to be alive. While she can be aloof, her passion for her work shines through in her animated discussions. However, her drow heritage sometimes brings with it an underlying tension, as she navigates the biases of others in her field.![[elira_moonshade.png]]
